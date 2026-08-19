@@ -7,11 +7,12 @@ This project demonstrates how to work with strings and tuples is an essential pa
 
 This project addresses this requirement by implementing various string and tuple operations using Python. It demonstrates how to combine strings, access individual characters, extract portions of text, modify strings using built-in methods, and perform basic operations on tuples.
 
-The examples are designed to understand how Python handles text data and immutable collections.
 
 ## 🎯 Project Objectives
 
 The main objective of this project is to develop a basic understanding of Python Strings and Tuples through practical coding exercises. The project focuses on performing string manipulation, indexing, slicing, built-in string methods, and tuple operations.
+
+The examples are designed to understand how Python handles text data and immutable collections.
 
 ## 📌 Problem Statement
 
