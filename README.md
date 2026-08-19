@@ -3,13 +3,19 @@ A collection of Python programs demonstrating fundamental data structure concept
 
 ## 📌 Project Overview
 
-This project demonstrates fundamental **Python data structures and string operations**, focusing on **Strings and Tuples**. It covers string concatenation, indexing, slicing, commonly used string methods, and basic tuple operations.
+This project demonstrates how to work with strings and tuples is an essential part of learning Python programming. Beginners need practical experience in manipulating text and working with immutable data collections.
+
+This project addresses this requirement by implementing various string and tuple operations using Python. It demonstrates how to combine strings, access individual characters, extract portions of text, modify strings using built-in methods, and perform basic operations on tuples.
 
 The examples are designed to understand how Python handles text data and immutable collections.
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 
-* Understand string concatenation in Python.
+The main objective of this project is to develop a basic understanding of Python Strings and Tuples through practical coding exercises. The project focuses on performing string manipulation, indexing, slicing, built-in string methods, and tuple operations.
+
+## 📌 Problem Statement
+
+* Analyse string concatenation in Python.
 * Perform string indexing and slicing.
 * Reverse a string using slicing.
 * Extract specific words from a string.
