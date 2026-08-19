@@ -157,3 +157,25 @@ Python-Data-Structures-using-Strings-and-Tuples
 
 This project provides practical experience with **Python Strings and Tuples**. It builds a strong foundation for understanding data manipulation in Python and prepares for more advanced topics such as **Lists, Dictionaries, Sets, Functions, NumPy, and Pandas**.
 
+## 👩‍💻 Author
+
+**Shanthini**
+
+**Aspiring Data Analyst**
+
+**Skills:** Python | Data Structures | String Operations | Tuple Operations | Data Manipulation
+
+## 📄 License
+
+This project is created for educational and assignment purposes only.
+
+## 🙏 Acknowledgments
+
+I would like to thank:
+
+- **Entri Elevate Course Support** for providing guidance and learning resources throughout this project.
+- **Python Documentation** for valuable references and support in understanding Python syntax, string operations, and tuple concepts.
+- **Google Colab** for providing an interactive environment to practice and execute Python code.
+
+
+
